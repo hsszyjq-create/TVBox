@@ -4,7 +4,7 @@
       "key": "星夜资源",
       "name": "星夜资源",
       "type": 0,
-      "api": "https://xyezy.com/api.php/provide/vod/?ac=list",
+      "api": "https://xyezy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
