@@ -4,7 +4,7 @@
       "key": "星夜资源",
       "name": "星夜资源",
       "type": 0,
-      "api": "https://xyezy.com/api.php/provide/vod/at/xml",
+      "api": "https://www.xyezy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -28,10 +28,10 @@
       "filterable": 1
     },
     {
-      "key": "搜AV资源",
-      "name": "搜AV资源",
+      "key": "小鸡资源",
+      "name": "小鸡资源",
       "type": 0,
-      "api": "https://api.souavzyw.net/api.php/provide/vod/at/xml",
+      "api": "https://api.xjzyapi.com/provide/vod?at=xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
