@@ -82,19 +82,19 @@
       "filterable": 1
     },
     {
-      "key": "点点娱乐",
-      "name": "点点娱乐",
+      "key": "火速资源",
+      "name": "火速资源",
       "type": 0,
-      "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+      "api": "https://api.huosuapi.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "52AVAV",
-      "name": "52AVAV",
+      "key": "红楼资源",
+      "name": "红楼资源",
       "type": 0,
-      "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
+      "api": "https://api.doyinapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
